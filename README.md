@@ -52,6 +52,6 @@ Plus, I made all the [course slides available for download](slides-students-C03.
 
 **A:** A certificate of completion is provided by Udemy after you complete 100% of the course. After completing the course, just click on the "Your progress" indicator in the top right-hand corner of the course page. If you want to change your name on the certificate, please [contact the Udemy support team](https://support.udemy.com/hc/en-us).
 
-### Q12: Do you accept pull requests?
+### Q12: Do you accept pull 
 
 
